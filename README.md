@@ -10,7 +10,11 @@
   <img src="https://komarev.com/ghpvc/?username=raihanadepurnomo&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views"/>
 </div>
 
+<br>
+
 ---
+
+<br>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -24,16 +28,22 @@
 
 > *"With great power, comes great responsibility."*
 
+<br clear="right"/>
+
+<br>
+
 ---
+
+<br>
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,python,java,dart,mysql,html,css" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,python,java,dart,mysql,html,css" alt="Tech Stack 1"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,flask,bootstrap,tailwind,vscode,git,github,netbeans" />
+  <img src="https://skillicons.dev/icons?i=flutter,flask,bootstrap,tailwind,vscode,git,github,netbeans" alt="Tech Stack 2"/>
 </p>
 
 <div align="center">
@@ -55,7 +65,11 @@
 
 </div>
 
+<br>
+
 ---
+
+<br>
 
 ### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Featured Projects
 
@@ -103,7 +117,7 @@
 </table>
 
 <details>
-<summary>View More Projects</summary>
+<summary>📂 View More Projects</summary>
 <br>
 
 - **[LaporTI](https://github.com/raihanadepurnomo/LaporTI)** — IT services complaint management system
@@ -114,56 +128,40 @@
 
 </details>
 
----
-
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raihanadepurnomo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihanadepurnomo&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raihanadepurnomo&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raihanadepurnomo&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophy" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raihanadepurnomo&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</div>
+<br>
 
 ---
+
+<br>
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> When I'm Not Coding
 
 I enjoy diving into a good book — reading helps me explore new perspectives and continuously learn.
 
+<br>
+
 ---
+
+<br>
 
 <div align="center">
   
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Let's Connect!
 
-  <p>💼 Open to collaboration and exciting opportunities</p>
-  <p>📫 Reach me through my <a href="https://raihanadepurnomo.dev">portfolio</a> or social media</p>
-  
-  <br>
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-  
-  ### 🐍 Contribution Snake
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raihanadepurnomo/raihanadepurnomo/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raihanadepurnomo/raihanadepurnomo/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/raihanadepurnomo/raihanadepurnomo/output/github-contribution-grid-snake.svg">
-  </picture>
-  
-  <br><br>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-  
+💼 Open to collaboration and exciting opportunities  
+📫 Reach me through my [portfolio](https://raihanadepurnomo.dev) or social media
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-7c3aed?style=for-the-badge)](https://raihanadepurnomo.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raihanadepurnomo/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/raihanadepurnomo/)
+
+<br>
+<br>
+
+---
+
+<sub>Made with ❤️ by Raihan Ade Purnomo</sub>
+
 </div>
