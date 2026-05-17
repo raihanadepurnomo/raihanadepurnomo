@@ -1,167 +1,270 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Raihan+Ade+Purnomo+%F0%9F%91%8B;Informatics+Engineering+Student+%F0%9F%8E%93;Full+Stack+Web+%26+Mobile+Developer+%F0%9F%9A%80;Passionate+About+Creating+Solutions+%F0%9F%92%A1" alt="Typing SVG" />
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-raihanadepurnomo.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://raihanadepurnomo.dev)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raihanadepurnomo/)
-  [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raihanadepurnomo/)
-  
-  <img src="https://komarev.com/ghpvc/?username=raihanadepurnomo&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views"/>
+
+
+```
+R A I H A N   A D E   P U R N O M O
+```
+
+**Full-Stack Web & Mobile Developer**
+
+*Informatics Engineering · UIN Syarif Hidayatullah Jakarta*
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/◈_Portfolio-raihanadepurnomo.dev-0f0c29?style=for-the-badge&logoColor=white)](https://raihanadepurnomo.dev)
+[![LinkedIn](https://img.shields.io/badge/◈_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raihanadepurnomo/)
+[![Instagram](https://img.shields.io/badge/◈_Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raihanadepurnomo/)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=raihanadepurnomo&style=flat-square&color=302b63&label=Profile+Views)
+
 </div>
 
-<br>
+<br/>
 
 ---
 
-<br>
+<div align="center">
+  <h2>⟡ &nbsp; About &nbsp; ⟡</h2>
+</div>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+I build practical digital products with a focus on **clean interfaces**, **structured backend logic**, and **meaningful user experience**.
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+Currently exploring the intersection of modern web engineering and AI-powered systems — from concept to deployment.
 
-🎓 Undergraduate student at **Universitas Islam Negeri Syarif Hidayatullah Jakarta**  
-💻 Passionate about creating innovative web and mobile solutions  
-🌱 Currently exploring **Laravel** and **Flutter** development  
-📚 Love reading books in my free time  
-🚀 Turning ideas into reality through clean code
+```yaml
+focus       : Web & Mobile Applications
+interests   : Laravel · React · Flutter · RESTful API · AI Systems
+status      : Open for collaboration and opportunities
+location    : Jakarta, Indonesia
+```
 
-> *"With great power, comes great responsibility."*
-
-<br clear="right"/>
-
-<br>
+<br/>
 
 ---
 
-<br>
-
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,python,java,dart,mysql,html,css" alt="Tech Stack 1"/>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,flask,bootstrap,tailwind,vscode,git,github,netbeans" alt="Tech Stack 2"/>
-</p>
+<div align="center">
+  <h2>⟡ &nbsp; Featured Project &nbsp; ⟡</h2>
+</div>
 
 <div align="center">
 
-**Languages**  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+### ✦ &nbsp; Eventra &nbsp; ✦
+#### *Modern Ticketing & Event Management Ecosystem*
 
-**Frameworks & Libraries**  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+<br/>
+
+> A complete event platform — ticket purchases, official resale, participant networking,
+> digital tickets, automated early-bird pricing & organizer finance dashboards.
+
+<br/>
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-eventra.raihanadepurnomo.dev-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://eventra.raihanadepurnomo.dev)
+[![Repository](https://img.shields.io/badge/Source_Code-View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raihanadepurnomo/eventra)
+
+<br/>
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Midtrans](https://img.shields.io/badge/Midtrans-0B5CAB?style=flat-square)
+![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square)
 
 </div>
 
-<br>
+<br/>
 
 ---
 
-<br>
+<div align="center">
+  <h2>⟡ &nbsp; Tech Stack &nbsp; ⟡</h2>
+</div>
 
-### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Featured Projects
+<div align="center">
 
-<table>
+**Languages**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+<br/>
+
+**Frameworks & Libraries**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+<br/>
+
+**Databases, Tools & Services**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+  <h2>⟡ &nbsp; GitHub Analytics &nbsp; ⟡</h2>
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raihanadepurnomo&theme=tokyonight" height="165" alt="Stats" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raihanadepurnomo&theme=tokyonight" height="165" alt="Top Languages by Repo" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raihanadepurnomo&theme=tokyonight" height="165" alt="Top Languages by Commit" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=raihanadepurnomo&theme=tokyonight&hide_border=true&background=1a1b27&ring=6366f1&fire=DD2727&currStreakLabel=6366f1&sideLabels=a9fef7&dates=a9fef7&stroke=6366f1" width="49%" alt="GitHub Streak" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raihanadepurnomo&theme=tokyonight&utcOffset=7" width="49%" alt="Productive Time" />
+
+<br/><br/>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raihanadepurnomo&theme=tokyonight" alt="Profile Summary" />
+
+<br/><br/>
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=raihanadepurnomo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies" />
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+  <h2>⟡ &nbsp; Selected Projects &nbsp; ⟡</h2>
+</div>
+
+<table align="center">
   <tr>
-    <td width="50%">
-      <h3 align="center">Memoar</h3>
-      <p align="center">
-        <a href="https://github.com/raihanadepurnomo/Memoar" target="_blank">
-          <img src="https://img.shields.io/badge/Code-View-2ea44f?style=for-the-badge&logo=github" alt="View Code"/>
-        </a>
+    <td width="50%" valign="top">
+      <h3>Currents</h3>
+      <p><em>OBE Academic Information System</em></p>
+      <p>Outcome-Based Education platform with RESTful API, assessment management, and CPL evaluation support.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/REST_API-00897B?style=flat-square" />
       </p>
-      <p align="center">Website for customizing candles with personalized designs</p>
     </td>
-    <td width="50%">
-      <h3 align="center">Aduin</h3>
-      <p align="center">
-        <a href="https://github.com/raihanadepurnomo/aduin" target="_blank">
-          <img src="https://img.shields.io/badge/Code-View-2ea44f?style=for-the-badge&logo=github" alt="View Code"/>
-        </a>
+    <td width="50%" valign="top">
+      <h3>DPR Bites</h3>
+      <p><em>Mobile Food Ordering App</em></p>
+      <p>Real-time food ordering application with live order management and Firebase backend infrastructure.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/REST_API-00897B?style=flat-square" />
       </p>
-      <p align="center">Student complaint management system for UIN Jakarta</p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">CineGuide</h3>
-      <p align="center">
-        <a href="https://github.com/raihanadepurnomo/cineguide" target="_blank">
-          <img src="https://img.shields.io/badge/Code-View-2ea44f?style=for-the-badge&logo=github" alt="View Code"/>
-        </a>
+    <td width="50%" valign="top">
+      <h3>Memoar</h3>
+      <p><em>Product Customization Platform</em></p>
+      <p>Personalized candle shop with interactive product customization, cart, and live preview features.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
       </p>
-      <p align="center">Comprehensive movie information mobile application</p>
     </td>
-    <td width="50%">
-      <h3 align="center">BookMySpace</h3>
-      <p align="center">
-        <a href="https://github.com/raihanadepurnomo/bookmyspace" target="_blank">
-          <img src="https://img.shields.io/badge/Code-View-2ea44f?style=for-the-badge&logo=github" alt="View Code"/>
-        </a>
+    <td width="50%" valign="top">
+      <h3>Aduin</h3>
+      <p><em>Campus Service Management</em></p>
+      <p>Student complaint and service request management system designed for campus environment workflows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
       </p>
-      <p align="center">Coworking space booking platform</p>
     </td>
   </tr>
 </table>
 
-<details>
-<summary>📂 View More Projects</summary>
-<br>
+<br/>
 
-- **[LaporTI](https://github.com/raihanadepurnomo/LaporTI)** — IT services complaint management system
-- **[PeduliDiri](https://github.com/raihanadepurnomo/pedulidiri)** — Travel journal and experience sharing platform
-- **[BukuKita](https://github.com/raihanadepurnomo/bukukita)** — Online bookstore with seamless shopping experience
-- **[StudentBase4C](https://github.com/raihanadepurnomo/studentbase4c)** — Student data management for 4C TI UIN Jakarta
-- **[FaceRec](https://github.com/raihanadepurnomo/facerec)** — Face recognition system using Flask and Python
+<details>
+<summary align="center">&nbsp; ◈ &nbsp; More Projects &nbsp; ◈ &nbsp;</summary>
+
+<br/>
+
+| Project | Description | Stack |
+|:---|:---|:---|
+| [FaceRec](https://github.com/raihanadepurnomo/facerec) | Face recognition system | Flask · Python · OpenCV |
+| [CineGuide](https://github.com/raihanadepurnomo/cineguide) | Movie information mobile app | Flutter · REST API |
+| [BookMySpace](https://github.com/raihanadepurnomo/bookmyspace) | Coworking space booking | Laravel · MySQL |
+| [LaporTI](https://github.com/raihanadepurnomo/LaporTI) | IT service complaint system | PHP · MySQL |
+| [PeduliDiri](https://github.com/raihanadepurnomo/pedulidiri) | Travel journal & activity tracker | Flutter · Firebase |
+| [BukuKita](https://github.com/raihanadepurnomo/bukukita) | Online bookstore application | PHP · MySQL |
 
 </details>
 
-<br>
+<br/>
 
 ---
-
-<br>
-
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> When I'm Not Coding
-
-I enjoy diving into a good book — reading helps me explore new perspectives and continuously learn.
-
-<br>
-
----
-
-<br>
 
 <div align="center">
-  
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Let's Connect!
+  <h2>⟡ &nbsp; Currently Exploring &nbsp; ⟡</h2>
+</div>
 
-💼 Open to collaboration and exciting opportunities  
-📫 Reach me through my [portfolio](https://raihanadepurnomo.dev) or social media
+<div align="center">
 
-<br>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-7c3aed?style=for-the-badge)](https://raihanadepurnomo.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raihanadepurnomo/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/raihanadepurnomo/)
+| Area | Stack |
+|:---|:---|
+| Scalable Backend Architecture | Laravel · Node.js |
+| Modern Frontend Development | React · TypeScript |
+| Cross-Platform Mobile Apps | Flutter |
+| AI & Computer Vision | NLP · OpenCV · Practical ML |
+| Clean Documentation | Maintainable & Readable Code |
 
-<br>
-<br>
+</div>
+
+<br/>
 
 ---
 
-<sub>Made with ❤️ by Raihan Ade Purnomo</sub>
+<div align="center">
+
+<h2>⟡ &nbsp; Let's Connect &nbsp; ⟡</h2>
+
+*Open for collaboration, project discussions, and software engineering opportunities.*
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/◈_Visit_Portfolio-raihanadepurnomo.dev-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://raihanadepurnomo.dev)
+[![LinkedIn](https://img.shields.io/badge/◈_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raihanadepurnomo/)
+[![Instagram](https://img.shields.io/badge/◈_Follow-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raihanadepurnomo/)
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" />
+
+<sub><sup>Designed with simplicity. Built with consistency.</sup></sub>
 
 </div>
