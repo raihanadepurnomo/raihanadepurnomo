@@ -261,10 +261,5 @@ location    : Jakarta, Indonesia
 [![LinkedIn](https://img.shields.io/badge/◈_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raihanadepurnomo/)
 [![Instagram](https://img.shields.io/badge/◈_Follow-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raihanadepurnomo/)
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" />
-
-<sub><sup>Designed with simplicity. Built with consistency.</sup></sub>
 
 </div>
